@@ -7,4 +7,31 @@ Author: msfz751
 Maintainer: Who to complain to <yourfault@somewhere.net>
 Description: More about what it does (maybe more than one line)
 License: What license is it under?
-Imports: logging
+Imports: logging,
+  nycflights13,
+  readr,
+  dplyr,
+  htmlwidgets,
+  leaflet,
+  shiny,
+  modelr,
+  tidyverse,
+  lubridate,
+  gapminder,
+  splines,
+  ggplot2,
+  forcats,
+  magrittr,
+  broom,
+  tidyr,
+  purrr,
+  hms,
+  feather,
+  stringr,
+  plotly,
+  mgcv,
+  pryr,
+  microbenchmark,
+  Lahman,
+  flexdashboard
+RoxygenNote: 6.1.1
