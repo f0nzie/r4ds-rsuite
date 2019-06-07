@@ -9,7 +9,7 @@ I have cloned `r4ds` on June 6, 2019, and immediately added a package under the 
 
 To be able to do this, we use [rsuite](https://rsuite.io/), an application with a client (Windows, Linux and Mac), a package `RSuite`, and a RStudio addin. The application is open source and is available in Github.
 
-I have been converting the most important and complex of my project to `rsuite` administered form. It really is a time saver because the dependencies or packages do not break after doing an update.
+I have been converting the most important and complex of my projects to `rsuite` administered form. It really is a time saver because the dependencies or packages do not break after doing a global update of R packages.
 
 ## How to use this `r4ds` variation
 
@@ -23,7 +23,7 @@ I have been converting the most important and complex of my project to `rsuite` 
 You will notice that the folder `deployment/libs` has been populated only by the packages required by `r4ds`. The operation is the same for any of the operating systems. The R binaries are generated depending of the OS.
 
 ## Project deployment
-I like the idea behind `rsuite`. What I showed above is only of the things that you can do with it. Additionally, you can:
+I like the idea behind `rsuite`. What I showed above is only one of the things that you can do with it. Additionally, you can:
 
 1. Put several packages under a main `umbrella` project to manage all of them, including tests and builds.
 2. Generate a stand-alone `Python` from Anaconda inside the `rsuite` project. This is a pretty neat idea for distributing ready-to-run applications, because if you share with other users, they don't even need to install Python; only R is needed.
