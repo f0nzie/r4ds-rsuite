@@ -30,7 +30,7 @@ I like the idea behind `rsuite`. What I showed above is only one of the things t
 3. Create a local copy of a whole remote repository, for instance `CRAN`, or selected packages, in you own server, Amazon instance, or your local drive. This is pretty handy when you are working in location with poor or slow internet, or no connection at all.
 4. Build a distributable R application as a `zip` file, where your users don't need to install any packages. Unpack it and run it with R.
 5. You can also deploy the R application within a `Docker` container as well. So, instead of sending to your users a zip file, you send them a link to download a Docker container including R itself.
-6. There feqw other things that `rsuite` does but haven't tested or explored yet. But the whole concept is pretty neat, preparing you for deployment.
+6. There are few other things that `rsuite` does but haven't tested or explored yet. But the whole concept is pretty neat, preparing you for deployment.
 
 
 ## References
