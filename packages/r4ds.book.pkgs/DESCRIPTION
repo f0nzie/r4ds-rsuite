@@ -33,5 +33,7 @@ Imports: logging,
   pryr,
   microbenchmark,
   Lahman,
-  flexdashboard
+  flexdashboard,
+  maps,
+  ggrepel
 RoxygenNote: 6.1.1
