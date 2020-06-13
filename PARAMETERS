@@ -1,5 +1,5 @@
-RSuiteVersion: 0.36.252
-RVersion: 3.6
+RSuiteVersion: 0.37.253
+RVersion: 3.5
 Project: r4ds-rsuite
-Repositories: MRAN[2019-06-06]
+Repositories: MRAN[2019-08-15]
 Artifacts: config_templ.txt
